@@ -26,7 +26,7 @@ Running the Docker Container
 
 docker run -d -p 8000:8000 fastapi-app
 
-Your FastAPI application should now be accessible at http://localhost:8000
+#Your FastAPI application should now be accessible at http://localhost:8000
 
 Managing Requirements
 
